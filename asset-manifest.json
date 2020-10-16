@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a31b843.chunk.css",
-    "main.js": "/static/js/main.6a01af23.chunk.js",
-    "main.js.map": "/static/js/main.6a01af23.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.74f98a6f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.74f98a6f.js.map",
-    "static/css/2.4173b2d3.chunk.css": "/static/css/2.4173b2d3.chunk.css",
-    "static/js/2.d51061d2.chunk.js": "/static/js/2.d51061d2.chunk.js",
-    "static/js/2.d51061d2.chunk.js.map": "/static/js/2.d51061d2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b7fedc41b59301b7a8aa915d5b9e4e42.js": "/precache-manifest.b7fedc41b59301b7a8aa915d5b9e4e42.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.4173b2d3.chunk.css.map": "/static/css/2.4173b2d3.chunk.css.map",
-    "static/css/main.4a31b843.chunk.css.map": "/static/css/main.4a31b843.chunk.css.map",
-    "static/js/2.d51061d2.chunk.js.LICENSE.txt": "/static/js/2.d51061d2.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/ReactSampleTest/static/css/main.4a31b843.chunk.css",
+    "main.js": "/ReactSampleTest/static/js/main.fdd4db9b.chunk.js",
+    "main.js.map": "/ReactSampleTest/static/js/main.fdd4db9b.chunk.js.map",
+    "runtime-main.js": "/ReactSampleTest/static/js/runtime-main.63ce02d9.js",
+    "runtime-main.js.map": "/ReactSampleTest/static/js/runtime-main.63ce02d9.js.map",
+    "static/css/2.022799e3.chunk.css": "/ReactSampleTest/static/css/2.022799e3.chunk.css",
+    "static/js/2.d51061d2.chunk.js": "/ReactSampleTest/static/js/2.d51061d2.chunk.js",
+    "static/js/2.d51061d2.chunk.js.map": "/ReactSampleTest/static/js/2.d51061d2.chunk.js.map",
+    "index.html": "/ReactSampleTest/index.html",
+    "precache-manifest.df86265c31cec12ccddb2ba4922d86f5.js": "/ReactSampleTest/precache-manifest.df86265c31cec12ccddb2ba4922d86f5.js",
+    "service-worker.js": "/ReactSampleTest/service-worker.js",
+    "static/css/2.022799e3.chunk.css.map": "/ReactSampleTest/static/css/2.022799e3.chunk.css.map",
+    "static/css/main.4a31b843.chunk.css.map": "/ReactSampleTest/static/css/main.4a31b843.chunk.css.map",
+    "static/js/2.d51061d2.chunk.js.LICENSE.txt": "/ReactSampleTest/static/js/2.d51061d2.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/ReactSampleTest/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.74f98a6f.js",
-    "static/css/2.4173b2d3.chunk.css",
+    "static/js/runtime-main.63ce02d9.js",
+    "static/css/2.022799e3.chunk.css",
     "static/js/2.d51061d2.chunk.js",
     "static/css/main.4a31b843.chunk.css",
-    "static/js/main.6a01af23.chunk.js"
+    "static/js/main.fdd4db9b.chunk.js"
   ]
 }
